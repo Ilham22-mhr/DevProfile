@@ -8,7 +8,7 @@ Solution :
 •	Création d'une vue dédiée pour le PDF
 •	Ajout de styles CSS inline pour un meilleur rendu
 
-3. Accès au Profil Public
+2. Accès au Profil Public
 Problème : Impossible d'accéder aux profils publics des développeurs.
 
 Solution :
@@ -17,7 +17,7 @@ Solution :
 •	Nettoyage du cache des routes
 •	Vérification des permissions dans le contrôleur
 
-5. Authentification
+3. Authentification
    Problème : Problèmes d'authentification et de redirection après connexion.
 
 Solution :
@@ -49,7 +49,7 @@ Solution :
 •	Double validation côté client et serveur
 
 
-10. Interface Utilisateur
+7. Interface Utilisateur
 Problème : Problèmes d'expérience utilisateur et de design responsive.
 
 Solution :
